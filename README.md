@@ -2,19 +2,34 @@
 
 ## Description
 
-Simple command line application to manage a database of employees
+Full MERN Stack Google Books API search engine
+
+Users can sign up, log in, and save books to their account.
+
+![image](https://user-images.githubusercontent.com/63832314/182044874-0dca1302-af52-49ae-a06a-d4ae0790e32b.png)
+
 
 ## Table of Contents
 
+- [Deployment](#deployment)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contribution](#how-to-contribute)
 - [Questions](#questions)
 
+## Deployment
+Application is live at: https://immense-bayou-42752.herokuapp.com/
+
 ## Installation
+Run `npm install` in root, server, and client folders
+
+Run `npm run watch` in server folder
+
+Run `npm run start` in client folder
 
 ## Usage
+Users should have a knowledge of MongoDB, Express.JS, React, and Node.js
 
 ## License
 
@@ -24,7 +39,7 @@ Simple command line application to manage a database of employees
 
 ## How To Contribute
 
-Contributors should have a knowledge of js basics, express, node.js, MongoDB, and React
+Contributors should have a knowledge of js basics, MongoDB, Express.JS, React, and Node.js
 
 ## Questions
 
